@@ -1,13 +1,13 @@
 <h1 align="center">Olá, me chamo Arthur</h1>
-<h3 align="center"> Apaixonado por Dados - Games </h3>
+<h3 align="center"> Apaixonado por Dados e Games </h3>
 
-
+<div>
 🔭 Atualmente estou trabalhando com **Análise de Dados em Marketing Digital**
 
 🌱 Atualmente estou aprendendo **Data Science, Python**
 
 ⚡ Fun fact:  **Futuro Mr.⭕lympia ??**
-
+</div>
 ##
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalcins&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
