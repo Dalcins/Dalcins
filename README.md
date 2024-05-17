@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Arthur</h1>
-<h3 align="center">Apaixonado por Dados - Games - High Performance Sports</h3>
+<h3 align="center"> Apaixonado por Dados - Games </h3>
 
 
 🔭 Atualmente estou trabalhando com **Análise de Dados em Marketing Digital**
@@ -25,11 +25,11 @@
 <a href="https://discord.gg/dalcins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dalcins" height="30" width="40" /></a>
 </p>
 
-<img src="/GIF/ds3.gif">
 
 </div>
 
 <!---
+<img src=/GIF/ds3.gif>
 - 👋 Hi, I’m @Dalcins 🇧🇷
 - 👀 I’m interested in Networking, Portfolio
 - 🌱 I’m currently learning Data Science
