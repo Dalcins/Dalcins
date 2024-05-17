@@ -19,8 +19,8 @@
 <div>
 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/arthurdalcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arthurdalcin" height="30" width="40" /></a>
-<a href="https://instagram.com/@dalcins_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dalcins_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arthurdalcin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arthurdalcin" height="30" width="40" /></a>
+<a href="https://instagram.com/dalcins_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dalcins_" height="30" width="40" /></a>
 <a href="https://medium.com/medium.com/@dalcins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium.com/@dalcins" height="30" width="40" /></a>
 <a href="https://discord.gg/dalcins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dalcins" height="30" width="40" /></a>
 </p>
