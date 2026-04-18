@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Junior+Data+Scientist+%40+Aramis;ML+Pipelines+%7C+MLOps+%7C+Feature+Engineering;Databricks+%7C+PySpark+%7C+scikit-learn;Apaixonado+por+Dados+e+Esportes+%F0%9F%8F%83" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Junior+Data+Scientist;ML+Pipelines+%7C+MLOps+%7C+Feature+Engineering;Databricks+%7C+PySpark+%7C+scikit-learn;Apaixonado+por+Dados+e+Esportes+%F0%9F%8F%83" alt="Typing SVG"/>
 </p>
 
 <!-- Badges de status -->
@@ -20,7 +20,6 @@
 ```yaml
 name:       Arthur Dalcin Santos
 role:       Junior Data Scientist
-company:    Aramis — São Paulo, BR
 education:  Tecnologia em Ciência de Dados · FATEC (2023–2026)
 focus:      [ ML Pipelines, MLOps, Feature Engineering, Churn & Segmentation ]
 hobbies:    [ Corrida 🏃, Musculação 🏋️, Dados 📊 ]
