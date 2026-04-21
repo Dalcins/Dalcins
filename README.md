@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Junior+Data+Scientist;ML+Pipelines+%7C+MLOps+%7C+Feature+Engineering;Databricks+%7C+PySpark+%7C+scikit-learn;Apaixonado+por+Dados+e+Esportes+%F0%9F%8F%83" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Junior+Data+Scientist;ML+Pipelines+%7C+MLOps+%7C+Feature+Engineering;Databricks+%7C+PySpark+%7C+scikit-learn;Modelos+bons+preveem.+%C3%93timos+modelos+explicam;Dados+e+Esportes+%F0%9F%8F%83" alt="Typing SVG"/>
 </p>
 
 <!-- Badges de status -->
@@ -22,7 +22,7 @@ name:       Arthur Dalcin Santos
 role:       Junior Data Scientist
 education:  Tecnologia em Ciência de Dados · FATEC (2023–2026)
 focus:      [ ML Pipelines, MLOps, Feature Engineering, Churn & Segmentation ]
-hobbies:    [ Corrida 🏃, Musculação 🏋️, Dados 📊 ]
+hobbies:    [ Corrida 🏃, Musculação 🏋️, Dados 📊, Jogos 🎮 ]
 ```
 
 ---
@@ -70,4 +70,5 @@ hobbies:    [ Corrida 🏃, Musculação 🏋️, Dados 📊 ]
 </p>
 
 <!-- Wave final -->
+<img width="1344" height="704" alt="Image" src="https://github.com/user-attachments/assets/ca77d041-e238-44f0-901a-678b8cef74bb" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d2137&height=80&section=footer"/>
